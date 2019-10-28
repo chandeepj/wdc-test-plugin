@@ -1,6 +1,6 @@
 WDC Test Plugin
 ===
-Plugin for WebDevChampion interview test
+Plugin for WDC test
 
 This plugin does the following things
 
