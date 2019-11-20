@@ -10,7 +10,7 @@
     function replaceHelloText() {
         var now = new Date();
         var hour = now.getHours();
-        if (hour <= 11) {
+        if (hour <= 10) {
             $('.entry-content').html(function() {
                 return $(this).html().replace( /Hello/g, 'Good Morning' );
             });
